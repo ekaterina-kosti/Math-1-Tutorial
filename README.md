@@ -21,12 +21,12 @@ python -m pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Suggested `requirements.txt`
+## Suggested requirements
 - numpy
-- matplotlib
-- notebook
-- nbconvert
-- ipympl
-- ipywidgets
+- matplotlib 
+- notebook # to use jupyter
+- nbconvert # to convert to html
+- ipympl #
+- ipywidgets # generate interactive plots
 
 (You can remove `ipympl`/`ipywidgets` if you prefer static plots only.)
