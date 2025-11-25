@@ -6,7 +6,6 @@ Short collection of Jupyter notebooks used for linear algebra and coordinate geo
 - `set1.ipynb` — Coordinate geometry: plotting lines and planes, vector ops.
 - `set2.ipynb` — Matrix arithmetic, determinants, cofactors and inverses.
 - `set3.ipynb` — Determinant properties and examples.
-- `.gitignore` — recommended ignore rules.
 
 ## Recommended Python environment
 - Python 3.10 or 3.11 (better wheel availability)
