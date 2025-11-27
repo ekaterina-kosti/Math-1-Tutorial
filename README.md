@@ -7,19 +7,6 @@ Short collection of Jupyter notebooks used for linear algebra and coordinate geo
 - `set2.ipynb` — Matrix arithmetic, determinants, cofactors and inverses.
 - `set3.ipynb` — Determinant properties and examples.
 
-## Recommended Python environment
-- Python 3.10 or 3.11 (better wheel availability)
-- Create a venv and install requirements (see below)
-
-## Minimal setup (Windows PowerShell)
-```powershell
-python -m venv .venv
-.\.venv\Scripts\activate
-python -m pip install -U pip setuptools wheel
-python -m pip install -r requirements.txt
-jupyter notebook
-```
-
 ## Suggested requirements
 - numpy
 - matplotlib 
